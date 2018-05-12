@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42540
 description: 'Translation of: The use of brandy and salt as a remedy for various internal
   as well as external diseases.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44528#Der-Selbstarzt-bei--u-eren-Verletzungen-und-Entz-ndungen-aller-Art.--13-Das-Geheimni--durch-F_
 gutenberg_issued: '2013-12-27'
 gutenberg_type: Text
 identifiers:
