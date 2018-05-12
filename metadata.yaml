@@ -1,0 +1,38 @@
+_repo: Der-Selbstarzt-bei--u-eren-Verletzungen-und-Entz-ndungen-aller-Art.--13-Das-Geheimni--durch-F__44528
+_version: 0.1.0
+alternative_title: "Der Selbstarzt bei äusseren Verletzungen und Entzündungen aller\
+  \ Art\r\nOder, das Geheimniss, durch Franzbranntwein und Salz alle Verwundungen,\
+  \ Lähmungen, offene Wunden, Brand, Krebsschäden, Zahnweh, Kolik, Rose, sowie überhaupt\
+  \ alle äussern und innern Entzündungen ohne Hülfe des Arztes zu heilen."
+covers:
+- cover_type: archival
+  image_path: 44528-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Lee, William
+    alias: Lee, Wm. (William)
+    birthdate: 1778
+    deathdate: 1863
+    gutenberg_agent_id: '42540'
+    url: http://www.gutenberg.org/2009/agents/42540
+description: 'Translation of: The use of brandy and salt as a remedy for various internal
+  as well as external diseases.'
+gutenberg_issued: '2013-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44528'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Medicine, Popular'
+- !lcsh 'Salt -- Therapeutic use'
+- !lcsh 'Brandy -- Therapeutic use'
+- !lcsh 'Alcohol -- Therapeutic use'
+title: "Der Selbstarzt bei äußeren Verletzungen und Entzündungen aller Art\r\nOder,\
+  \ das Geheimniß, durch Franzbranntwein und Salz alle Verwundungen, Lähmungen, offene\
+  \ Wunden, Brand, Krebsschäden, Zahnweh, Kolik, Rose, sowie überhaupt alle äußern\
+  \ und innern Entzündungen ohne Hülfe des Arztes zu heilen."
+url: http://www.gutenberg.org/ebooks/44528
